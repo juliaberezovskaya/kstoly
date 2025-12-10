@@ -3,7 +3,7 @@
 *Автор*: Березовская Юлия
 *Дата создания*: 29.11.2025
 
-[Схема]()
+[Схема](http://github.com/juliaberezovskaya/kstoly/blob/use-cases/docs/use-cases/diagrams/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D1%8F.drawio.png)
 
 ---
 
