@@ -10,6 +10,8 @@
 Роль: **системный аналитик** (pet-project в паре с наставником).  
 Моя зона ответственности: требования и артефакты — **_Vision & Scope_**, **_Use Case_**, **_User Stories_**, **_SRS_**, модели данных (**_ER/UML_**), диаграммы процессов.
 
+## **Текущая работа ведётся в ветке [develop](https://github.com/juliaberezovskaya/kstoly/tree/develop)**
+
 ## Что уже готово
 - Vision & Scope: `docs/vision-scope.md`
 - Бизнес-правила: `docs/business-rules.md`
